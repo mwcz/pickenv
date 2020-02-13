@@ -1,0 +1,19 @@
+{
+  "name": "pickenv",
+  "version": "1.0.0",
+  "description": "process.env too big?  Get only the environment variables you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Michael Clayton",
+    "email": "mwc@clayto.com",
+    "url": "https://clayto.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}

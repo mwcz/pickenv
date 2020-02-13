@@ -1,6 +1,6 @@
 {
   "name": "pickenv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "process.env too big?  Get only the environment variables you want.",
   "main": "index.js",
   "scripts": {
